@@ -16,3 +16,4 @@ import { HousingLocation } from '../housinglocation';
 export class HousingLocationComponent {
   @Input() housingLocation!: HousingLocation;
 }
+  
